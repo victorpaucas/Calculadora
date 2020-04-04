@@ -11,6 +11,6 @@ Ejecutar la aplicación Calculadora.exe de la siguiente ruta.
 ![image](https://user-images.githubusercontent.com/59380623/78417863-1bfd1280-75fc-11ea-89aa-ec13a7af8182.png)
 
 ## 3. Licencia
-**[MIT LICENSE](https://github.com/victorpaucas/Yumpu/blob/master/LICENSE)**
+**[MIT LICENSE](https://github.com/victorpaucas/Calculadora/blob/master/LICENSE)**
 
 Copyright © 2020 Victor Hugo Paucas Navarro
