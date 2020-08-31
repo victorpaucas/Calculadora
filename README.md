@@ -2,8 +2,10 @@
 Aplicación para operaciones aritmeticas básicas
 
 ## 1. Instalación
+Compilar proyecto Calculadora.Aplicacion.
+
 Ejecutar la aplicación Calculadora.exe de la siguiente ruta.
-> ~\Calculadora\Calculadora.Aplicación\bin\Calculadora.exe
+> ~\Calculadora\Calculadora.Aplicacion\bin\Calculadora.exe
 
 ![image](https://user-images.githubusercontent.com/59380623/78417842-dccec180-75fb-11ea-9c73-41e474f5f53b.png)
 
